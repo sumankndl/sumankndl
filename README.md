@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sumankndl
 - 👀 I’m interested in coding as I am student with major in software/web application.
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Python and PHP.
 - 💞️ I’m looking to collaborate on Python projects.
 - 📫 How to reach me: Contact: suman.kndl09@gmail.com 
 
